@@ -12,8 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.23.0",
-    "graphql": "^15.5.0",
+    "@apollo/client": "^3.6.9",
+    "apollo-server": "^3.10.1",
+    "create-react-app": "^5.0.1",
+    "graphql": "^15.8.0",
+    "storefront": "^0.8.1",
     "typescript": "^4.2.4"
   },
   "devDependencies": {
